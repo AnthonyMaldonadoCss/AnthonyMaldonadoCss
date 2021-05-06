@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 <h2 align="center">You can find me at 😎</h2>
 
 <p align="center">
-  <a href="https://twitter.com/Anthony_Vim/" about="_blank">
+  <a href="https://twitter.com/Anthony_Vim/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Anthony Maldonado Twitter" height="30" width="30">
   </a>
 
-  <a href="https://www.linkedin.com/in/anthony-maldonado-web-developer" about="_blank">
+  <a href="https://www.linkedin.com/in/anthony-maldonado-web-developer" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
   </a>
 </p>
