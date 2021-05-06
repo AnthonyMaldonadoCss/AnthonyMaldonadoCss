@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi I'm Anthony Maldonado 🖥️
+ <img align="center" alt="Anthony Maldonado" src="https://user-images.githubusercontent.com/71196901/117372041-e679c700-ae96-11eb-963a-5241f7dd928e.jpeg" />
 
 <!--
 **AnthonyMaldonadoCss/AnthonyMaldonadoCss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### you can find me at: :gla
+
+<h2 align="center">You can find me at 😎</h2>
+
+<p align="center">
+  <a href="https://twitter.com/Anthony_Vim/" about="_blank">
+    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Anthony Maldonado Twitter" height="30" width="30">
+  </a>
+
+  <a href="https://www.linkedin.com/in/anthony-maldonado-web-developer" about="_blank">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
+  </a>
+</p>
+
+```js
+const anthony = { pronoums: "he" | "him",
+  code: [JavaScript, HTML, CSS],
+  tools: [NPM, SASS, Docker],
+  S.O: "Linux",
+}
+```
