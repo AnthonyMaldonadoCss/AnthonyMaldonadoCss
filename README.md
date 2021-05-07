@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### you can find me at: :gla
-
 <h2 align="center">You can find me at 😎</h2>
 
 <p align="center">
