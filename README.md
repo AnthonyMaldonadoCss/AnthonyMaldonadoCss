@@ -1,5 +1,15 @@
 ### Hi I'm Anthony Maldonado 🖥️
- <img align="center" alt="Anthony Maldonado" src="https://user-images.githubusercontent.com/71196901/117372041-e679c700-ae96-11eb-963a-5241f7dd928e.jpeg" />
+ 
+ <div>
+  <img
+    align="center"
+    alt="Anthony Maldonado"
+    src="https://user-images.githubusercontent.com/71196901/117372041-e679c700-ae96-11eb-963a-5241f7dd928e.jpeg"
+  />
+ <br>
+ <br>
+  <p style="text-align: center;">hello friend! nice to have you here, thanks for taking a walk through this repository, you will find not much experience but a lot of passion, a lot of work, tests I have done for jobs that did not work, but helped me to move forward</p>
+</div>
 
 <!--
 **AnthonyMaldonadoCss/AnthonyMaldonadoCss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
