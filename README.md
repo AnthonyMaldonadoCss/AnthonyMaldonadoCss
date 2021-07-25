@@ -31,9 +31,10 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/Anthony_Vim/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Anthony Maldonado Twitter" height="30" width="30">
   </a>
-
+ <br>
+ <br>
   <a href="https://www.linkedin.com/in/anthony-maldonado-web-developer" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Anthony Maldonado LinkedIn Profile" height="30" width="30">
   </a>
 </p>
 
