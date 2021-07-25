@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 ```js
 const anthony = { pronoums: "he" | "him",
   code: [JavaScript, HTML, CSS],
-  tools: [NPM, SASS, Docker],
-  S.O: "Linux",
+  Frameworks: [Angular],
+  tools: [NPM, SASS, Docker, Bootstrap],
+  S.O: "Linux", "Windows"
 }
 ```
