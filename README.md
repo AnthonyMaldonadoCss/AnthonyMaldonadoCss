@@ -8,7 +8,7 @@
   />
  <br>
  <br>
-  <p style="text-align: center;">hello friend! nice to have you here, thanks for taking a walk through this repository, you will find not much experience but a lot of passion, a lot of work, tests I have done for jobs that did not work, but helped me to move forward</p>
+  <p style="text-align: center;">Hello friend! nice to have you here, thanks for taking a walk through this repository, you will find not much experience but a lot of passion, a lot of work, tests I have done for jobs that did not work, but helped me to move forward</p>
 </div>
 
 <!--
@@ -41,11 +41,11 @@ Here are some ideas to get you started:
 const anthony = { pronoums: "he" | "him",
   Code: ['JavaScript','Node','Python'],
   Databases: ['MongoDb',],
-  StyleSheet: ['CSS', 'SASS',]
-  Frameworks:['Meteor.js']
+  StyleSheet: ['CSS', 'SASS',],
+  Frameworks:['Meteor.js'],
   Tools: [NPM, SASS, Docker,GIT, GitHub],
-  Books:['Clean Code'],
-  MarkUp Lanoguaje:['HTML', 'Pug']
-  S.O: "Linux", "Windows"
+  Books:['Clean Code',],
+  MarkUp Languaje:['HTML', 'Pug'],
+  S.O: ['Linux', 'Windows']
 }
 ```
