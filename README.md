@@ -39,9 +39,13 @@ Here are some ideas to get you started:
 
 ```js
 const anthony = { pronoums: "he" | "him",
-  code: [JavaScript, HTML, CSS],
-  Frameworks: [Angular],
-  tools: [NPM, SASS, Docker, Bootstrap],
+  Code: ['JavaScript','Node','Python'],
+  Databases: ['MongoDb',],
+  StyleSheet: ['CSS', 'SASS',]
+  Frameworks:['Meteor.js']
+  Tools: [NPM, SASS, Docker,GIT, GitHub],
+  Books:['Clean Code'],
+  MarkUp Lanoguaje:['HTML', 'Pug']
   S.O: "Linux", "Windows"
 }
 ```
