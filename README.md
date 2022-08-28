@@ -38,12 +38,13 @@ Here are some ideas to get you started:
 </p>
 
 ```js
-const anthony = { pronoums: "he" | "him",
+const Anthony = { 
+  Pronoums: ['he', 'him',],
   Code: ['JavaScript','Node','Python'],
   Databases: ['MongoDb',],
   StyleSheet: ['CSS', 'SASS',],
   Frameworks:['Meteor.js'],
-  Tools: [NPM, SASS, Docker,GIT, GitHub],
+  Tools: ['NPM', 'SASS', 'Docker','GIT', 'GitHub'],
   Books:['Clean Code',],
   MarkUp Languaje:['HTML', 'Pug'],
   S.O: ['Linux', 'Windows']
