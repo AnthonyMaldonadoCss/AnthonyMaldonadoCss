@@ -44,7 +44,7 @@ const Anthony = {
   Databases: ['MongoDb',],
   StyleSheet: ['CSS', 'SASS',],
   Frameworks:['Meteor.js'],
-  Tools: ['NPM', 'SASS', 'Docker','GIT', 'GitHub'],
+  Tools: ['NPM', 'SASS', 'Docker','GIT', 'GitHub', 'FastApi'],
   Books:['Clean Code',],
   MarkUp Languaje:['HTML', 'Pug'],
   S.O: ['Linux', 'Windows']
