@@ -45,6 +45,7 @@ const Anthony = {
   StyleSheet: ['CSS', 'SASS',],
   Frameworks:['Meteor.js'],
   Tools: ['NPM', 'SASS', 'Docker','GIT', 'GitHub', 'FastApi'],
+  Testing:['Cypress']
   Books:['Clean Code',],
   MarkUp Languaje:['HTML', 'Pug'],
   S.O: ['Linux', 'Windows']
