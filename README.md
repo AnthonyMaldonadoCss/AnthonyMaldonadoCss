@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Anthony Maldonado Twitter" height="30" width="30">
   </a>
  <br>
-  <a href="https://www.linkedin.com/in/anthony-maldonado-web-developer" target="_blank">
+  <a href="https://www.linkedin.com/in/anthony-maldonado-software-developer/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Anthony Maldonado LinkedIn Profile" height="30" width="30">
   </a>
 </p>
@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 ```js
 const Anthony = { 
   Pronoums: ['he', 'him',],
-  Code: ['JavaScript','Node','Python'],
-  Databases: ['MongoDb',],
+  Code: ['JavaScript','Python'],
+  Databases: ['MongoDb','MySQL'],
   StyleSheet: ['CSS', 'SASS',],
-  Frameworks:['Meteor.js'],
+  Frameworks:['Meteor.js', 'Node', 'React'],
   Tools: ['NPM', 'SASS', 'Docker','GIT', 'GitHub', 'FastApi'],
   Testing: ['Cypress'],
   Books:['Clean Code',],
