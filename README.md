@@ -40,14 +40,16 @@ Here are some ideas to get you started:
 ```js
 const Anthony = { 
   Pronoums: ['he', 'him',],
-  Code: ['JavaScript','Python'],
+  Languajes: [{'English': 'B1'}, {'Spanish': 'Native'}]
+  Programming Languajes: ['JavaScript','Python', 'PHP'],
   Databases: ['MongoDb','MySQL'],
   StyleSheet: ['CSS', 'SASS',],
-  Frameworks:['Meteor.js', 'Node', 'React'],
-  Tools: ['NPM', 'SASS', 'Docker','GIT', 'GitHub', 'FastApi'],
-  Testing: ['Cypress'],
+  Frameworks:['MeteorJs', 'Angular', 'React', 'Boostrap', 'NestJs', 'Express', 'FastApi'],
+  Runtimes: ['NodeJs']
+  Tools: ['NPM', 'Docker','GIT', 'GitHub', 'Vite'],
+  Testing: ['Cypress', 'Jest'],
   Books:['Clean Code',],
   MarkUp Languaje:['HTML', 'Pug'],
-  S.O: ['Linux', 'Windows']
+  S.O: ['Linux', 'Windows', 'Mac']
 }
 ```
