@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 const Anthony = { 
   Pronoums: ['he', 'him',],
   Languajes: [{'English': 'B1'}, {'Spanish': 'Native'}],
-  Programming Languajes: ['JavaScript','Python', 'PHP'],
+  ProgrammingLanguajes: ['JavaScript','Python', 'PHP'],
   Databases: ['MongoDb','MySQL'],
   StyleSheet: ['CSS', 'SASS',],
   Frameworks:['MeteorJs', 'Angular', 'React', 'Boostrap', 'NestJs', 'Express', 'FastApi'],
